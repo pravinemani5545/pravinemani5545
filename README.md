@@ -18,7 +18,7 @@ Software engineer building at the intersection of **full-stack development** and
 
 - 🔨 Built **[31 AI-powered apps in 30 days](https://30in30-nu.vercel.app)**
 - 🚀 Running **[AIOpsForge](https://github.com/pravinemani5545/aiopsforge-landing)** — production-grade AI systems, weekly
-- 🦷 Building **Orbit Dental** — AI-powered clinic acquisition CRM
+- 💻 Building **Cisnet**
 - 🎓 Computer Engineering @ McMaster University
 
 ---
