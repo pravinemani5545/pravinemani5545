@@ -1,74 +1,62 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=520&lines=Full-Stack+%2B+AI+Engineer;Shipped+31+AI+Apps+in+30+Days;Building+in+Public)](https://git.io/typing-svg)
+# Pravine Mani
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pravinemani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://portfoliov2-jet-gamma.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pravinemanivannan8@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Inter&size=18&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=520&lines=Software+Engineer;Computer+Engineering+%40+McMaster;Building+AIOpsForge+%2B+Cisnet)](https://git.io/typing-svg)
 
-![visitors](https://komarev.com/ghpvc/?username=pravinemani5545&color=00FF41&style=flat-square&label=visitors)
-
-</div>
-
----
-
-## `> whoami`
-
-Software engineer building at the intersection of **full-stack development** and **AI**. I ship fast, build production-grade systems, and believe the best way to learn is to build.
-
-- 🔨 Built **[31 AI-powered apps in 30 days](https://30in30-nu.vercel.app)**
-- 🚀 Running **[AIOpsForge](https://github.com/pravinemani5545/aiopsforge-landing)** — production-grade AI systems, weekly
-- 💻 Building **Cisnet**
-- 🎓 Computer Engineering @ McMaster University
-
----
-
-## `> cat tech.stack`
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,ruby,rails,python,go,tailwind,postgres,supabase,redis,docker,vercel,git,figma&perline=9&theme=dark)](https://skillicons.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D97757)](https://linkedin.com/in/pravinemani)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=D97757)](https://portfoliov2-jet-gamma.vercel.app)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D97757)](mailto:pravinemanivannan8@gmail.com)
 
 </div>
 
 ---
 
-## `> ls featured/`
+## About
 
-| Project | What it does | Built with |
-|---------|-------------|------------|
-| [**30in30**](https://30in30-nu.vercel.app) | 31 AI micro-apps — journals, CRMs, RAG pipelines, agent orchestration | `Next.js 16` `Claude` `Gemini` `Supabase` `pgvector` |
-| [**folioRebalance**](https://github.com/pravinemani5545/folioRebalanceEngine) | AI portfolio rebalancing via 4-agent Claude pipeline | `Next.js` `Claude SDK` `Vitest` |
-| [**TweetQueue**](https://github.com/pravinemani5545/xpost) | Self-hosted tweet scheduler with AI-assisted writing | `Next.js` `Gemini` `Supabase Vault` `OAuth 2.0` |
-| [**CISNET**](https://github.com/pravinemani5545/cisnet-web) | IT certification training platform | `Next.js 16` `Turborepo` `Supabase` `Resend` |
-| [**CPR**](https://github.com/pravinemani5545/cpr-compress-preserve-resume) | Open-source persistent memory for Claude Code sessions | `Claude Code Skills` |
+Computer Engineering at McMaster. I mostly build web apps and AI tooling.
+
+Working on:
+
+- **[AIOpsForge](https://aiopsforge.dev)** — a weekly publication and community for people building practical AI systems, not just reading about them
+- **[Cisnet](https://cisnet.ca)** — live, instructor-led IT certification training with a 90%+ first-attempt pass rate
+
+Reach out if you want to talk about systems design, agentic workflows, developer tooling, or building a product solo.
 
 ---
 
-## `> git log --stat`
+## Stack
+
+**Languages** — TypeScript, Python, Go, Ruby
+
+**Frameworks** — Next.js, React, Rails, Express
+
+**AI & Agents** — Anthropic SDK, Claude Code, MCP servers, pgvector, prompt caching, structured outputs, agent orchestration
+
+**Data** — Postgres, Supabase, Redis
+
+**Infra & Tooling** — Vercel, Docker, Figma, Git
+
+---
+
+## Selected Work
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**AIOpsForge**](https://aiopsforge.dev) | Weekly publication + community for building practical AI systems | `Next.js` `Claude` `Supabase` |
+| [**Cisnet**](https://cisnet.ca) | Live, instructor-led IT certification training; 90%+ first-attempt pass rate | `Next.js 16` `Turborepo` `Supabase` `Resend` |
+| [**folioRebalance**](https://github.com/pravinemani5545/folioRebalanceEngine) | Portfolio rebalancing via a 4-agent Claude pipeline | `Next.js` `Claude SDK` `Vitest` |
+| [**TweetQueue**](https://github.com/pravinemani5545/xpost) | Self-hosted tweet scheduler with AI drafting | `Next.js` `Gemini` `Supabase Vault` `OAuth 2.0` |
+| [**CPR**](https://github.com/pravinemani5545/cpr-compress-preserve-resume) | Persistent memory for Claude Code sessions | `Claude Code Skills` |
+
+---
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pravinemani5545&show_icons=true&hide_border=true&count_private=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pravinemani5545&show_icons=true&hide_border=true&count_private=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pravinemani5545&show_icons=true&hide_border=true&count_private=true&icon_color=00FF41&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pravinemani5545&show_icons=true&hide_border=true&count_private=true&icon_color=D97757&title_color=D97757&text_color=c9d1d9&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pravinemani5545&show_icons=true&hide_border=true&count_private=true&icon_color=D97757&title_color=D97757&text_color=24292f&bg_color=ffffff">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pravinemani5545&show_icons=true&hide_border=true&count_private=true&icon_color=D97757&title_color=D97757&text_color=c9d1d9&bg_color=0d1117">
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=pravinemani5545&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0d1117&stroke=00FF4133&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=555555">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=pravinemani5545&hide_border=true">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=pravinemani5545&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0d1117&stroke=00FF4133&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=555555">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-```
-$ echo "ship fast. ship often."
-```
 
 </div>
