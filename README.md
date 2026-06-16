@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Inter&size=18&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=520&lines=Software+Engineer;Computer+Engineering+%40+McMaster;Building+AIOpsForge+%2B+Cisnet)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D97757)](https://linkedin.com/in/pravinemani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=D97757)](https://pravinemani.ca)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=D97757)](https://www.pravinemani.com)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D97757)](mailto:pravinemaniva@gmail.com)
 
 </div>
@@ -18,7 +18,7 @@ Computer Engineering at McMaster. I mostly build web apps and AI tooling.
 
 Working on:
 
-- **[pravinemani.ca](https://pravinemani.ca)** — my personal site and portfolio (in progress)
+- **[pravinemani.com](https://www.pravinemani.com)** — my personal site and portfolio
 - **[AIOpsForge](https://aiopsforge.dev)** — a weekly publication and community for people building practical AI systems, not just reading about them
 - **[Cisnet](https://cisnet.ca)** — live, instructor-led IT certification training with a 90%+ first-attempt pass rate
 
