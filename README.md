@@ -18,8 +18,8 @@ Computer Engineering at McMaster. I mostly build web apps and AI tooling.
 
 Working on:
 
-- **[pravinemani.com](https://www.pravinemani.com)** — my personal site and portfolio
-- **[AIOpsForge](https://aiopsforge.dev)** — a weekly publication and community for people building practical AI systems, not just reading about them
+- **[pravinemani.com](https://www.pravinemani.com)** — my freelance consultancy: AI workflow automation, SEO/GEO, and marketing automation, shipped in code on fixed scope — you own it outright
+- **[AIOpsForge](https://aiopsforge.dev)** — a community for solo AI builders (in progress — waitlist live)
 - **[Cisnet](https://cisnet.ca)** — live, instructor-led IT certification training with a 90%+ first-attempt pass rate
 
 Reach out if you want to talk about systems design, agentic workflows, developer tooling, or building a product solo.
@@ -44,7 +44,7 @@ Reach out if you want to talk about systems design, agentic workflows, developer
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**AIOpsForge**](https://aiopsforge.dev) | Weekly publication + community for building practical AI systems | `Next.js` `Claude` `Supabase` |
+| [**AIOpsForge**](https://aiopsforge.dev) | Community for solo AI builders — in progress, waitlist live | `Next.js` `Claude` `Supabase` |
 | [**Cisnet**](https://cisnet.ca) | Live, instructor-led IT certification training; 90%+ first-attempt pass rate | `Next.js 16` `Turborepo` `Supabase` `Resend` |
 | [**skills-and-mcp**](https://github.com/pravinemani5545/skills-and-mcp) | Claude Code agent skills + a multi-account Gmail organizer MCP server | `TypeScript` `MCP` `Claude Code` |
 | [**CPR**](https://github.com/pravinemani5545/cpr-compress-preserve-resume) | Persistent memory (compress · preserve · resume) for Claude Code sessions | `Claude Code Skills` |
