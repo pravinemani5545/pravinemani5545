@@ -32,7 +32,7 @@ Reach out if you want to talk about systems design, agentic workflows, developer
 
 **Frameworks** — Next.js, React, Rails, Express
 
-**AI & Agents** — Anthropic SDK, Claude Code, MCP servers, pgvector, prompt caching, structured outputs, agent orchestration
+**AI & Agents** — Anthropic SDK, Claude Code, MCP servers, prompt caching, structured outputs, agent orchestration
 
 **Data** — Postgres, Supabase, Redis
 
